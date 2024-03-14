@@ -1,1 +1,1 @@
-This section is just a part of my learning journey in the field if signal processing
+This section is depicts the part of my academic journey in the field if signal processing
